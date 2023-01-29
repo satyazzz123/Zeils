@@ -1,0 +1,63 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-google-maps/api": "^2.17.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
+    "atropos": "^1.0.2",
+    "flip-card-wc": "^1.3.0",
+    "image-gallery-overlay": "^1.4.1",
+    "react": "^18.2.0",
+    "react-animation-on-scroll": "^5.1.0",
+    "react-burger-menu": "^3.0.8",
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-dropdown-select": "^4.9.0",
+    "react-hover": "^3.0.1",
+    "react-icons": "^4.6.0",
+    "react-insta-stories": "^2.4.2",
+    "react-native-gallery-image-overlay": "^0.0.1",
+    "react-parallax": "^3.5.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1",
+    "react-scroll-motion": "^0.3.0",
+    "react-scroll-parallax": "^3.3.1",
+    "react-slideshow-image": "^4.0.5",
+    "react-type-animation": "^2.1.2",
+    "react-vertical-timeline-component": "^3.5.2",
+    "reactjs-popup": "^2.0.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.4.2"
+  }
+}
